@@ -4,9 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Predictive Content Efficiency Model](https://github.com/joshmadakor1/Algorithms-Practice)
- <b>Predictive Social Media Model Growth Model</b>
-  - [Predictive Content Efficiency Model](https://github.com/joshmadakor1/Algorithms-Practice)
-  - <b>Social media Engagement Analysis- Predicting Interaction Drivers with Python & scikit'learn</b>
+  - [Social media Engagement Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2>📺 Popular YouTube Videos</h2>
 
