@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
+- <b>Marketing Projects</b>
   - [Predictive Content Efficiency Model](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Social media Engagement Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
   
